@@ -14,7 +14,6 @@ NLP_Assignments/
 ├── assignment_4_debug_analysis/   # تحليل الأخطاء
 ├── assignment_5_code_fix/         # إصلاح الكود
 ├── assignment_6_api_integration/  # ربط النماذج والـ API
-├── reports/                       # التقارير النهائية
 ├── requirements.txt               # المكتبات المطلوبة
 └── README.md                      # هذا الملف
 ```
